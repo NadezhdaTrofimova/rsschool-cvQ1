@@ -1,11 +1,12 @@
-#Nadezhda Trofimova
+# Nadezhda Trofimova
+
 _25.11.1991, Saint Petersburg_
 
 ---
 
-###Contact details
+### Contact details
 
 - Tel: +7(996)780-07-51
-- Email:[mailto:trofimnad1991@gmail.com](trofimnad1991@gmail.com)
+- Email: trofimnad1991@gmail.com
 
 ---
