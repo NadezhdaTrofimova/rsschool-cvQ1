@@ -1,1 +1,1 @@
-https://NadezhdaTrofimova.github.io/rsschool-cv/cv
+https://NadezhdaTrofimova.github.io/rsschool-cvQ1/cv
